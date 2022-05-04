@@ -28,5 +28,5 @@ This is a Clone of SNRKS Website
 
 
 ### Screen-Shot of Clone:
-<img src="./IMG/PUMA-SS.png" alt="PUMA SCREEN SHOT">
+<img src="./IMG/SNRKS-SS.png" alt="SNKRS SCREEN SHOT">
 
